@@ -1,7 +1,7 @@
 import json
 import requests
 
-BOT_TOKEN = "YOUR_BOT_TOKEN"
+BOT_TOKEN = "7545292529:AAEMRwrhK1NYs7tcN6kJ5pNj-FT-mOY-VYo"
 TELEGRAM_API = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
 def handler(request):
